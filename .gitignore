@@ -17,3 +17,21 @@ Archieve/
 
 # github action result
 semicolon_delimited_script
+
+# macOS
+.DS_Store
+
+# Generated resume outputs / private application material
+*.pdf
+*.skill
+applications/**
+!applications/.gitkeep
+
+# LaTeX intermediates
+*.synctex.gz
+*.xdv
+*.fdb_latexmk
+*.bbl
+*.bcf
+*.blg
+*.run.xml

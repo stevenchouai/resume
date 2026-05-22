@@ -35,3 +35,8 @@ applications/**
 *.bcf
 *.blg
 *.run.xml
+# Personal/Private Resume Data
+engineer/
+pm/
+docs/resume-benchmark-2026-05-13.md
+docs/APPLICATION_RULES.md
